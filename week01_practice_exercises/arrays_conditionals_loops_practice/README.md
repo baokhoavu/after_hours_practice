@@ -2,7 +2,7 @@
 ![](assets/sbc_js.PNG)
 ## Arrays, Conditionals, and Loops
 
-The boss catches you right before you leave your homey cubicle for your cubicle-like home.
+The boss catches you right before you leave your homey cubicle for your cubicle-like home!!
 
 **She needs you to write some JS for the company Softball team**. You feel a little bullied, because you're not on the Softball team - Sales cut you after striking out in the first game - but you relent.
 
